@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/wangph/miniconda3/envs/lostgan/bin/python",
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pylamaEnabled": true
+}
